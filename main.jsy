@@ -1,0 +1,27 @@
+alert("hello!!");
+console.log("i love dogs there kool")
+
+
+
+alert("welcome to mad libs");
+var person = prompt("Please enter your  name", "wombatman");
+var font = prompt("what is your favorite font?","Comic Sans");
+var noun1 = prompt("please enter a noun", "");
+var noun2 = prompt("please eanter a noun", "")
+var noun3 = prompt("please eanter a noun", "")
+var noun4 = prompt("please eanter a noun", "")
+var verb1 = prompt("please eanter a verb", "")
+var verb2 = prompt("please eanter a verb", "")
+var verb3 = prompt("please eanter a verb", "")
+var verb4 = prompt("please eanter a verb", "")
+
+
+
+
+
+
+
+
+
+document.getElementById("name").innerHTML = "One day there was a " + noun1 + "he was walking into a park with a " + noun2 + "the " + noun 2 + "had a an " + noun3 + "he decied to  " + verb1 +
+
